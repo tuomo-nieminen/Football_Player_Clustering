@@ -1,0 +1,8 @@
+#Ignore downloaded datasets
+data/
+
+#Ignore the virtual enviroment
+.venv/
+
+#Ignore Jupyter auto-saves
+.ipynb_checkpoints/
